@@ -1,0 +1,42 @@
+body {
+  background-color: #393e46;
+  text-align: center;
+  color: #00adb5;
+}
+
+h1 {
+  font-size: 7rem;
+  margin: 5% auto;
+  font-family: 'Pacifico', cursive;
+  font-weight: bold;
+}
+
+h2 {
+  margin: 10%;
+  font-family: 'Indie Flower', cursive;
+}
+
+p {
+  margin: 5% auto;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  max-width: 100%;
+}
+
+.row {
+  justify-content: center;
+}
+
+.col-lg-3 {
+  margin: 0 2.5%;
+}
+
+.btn {
+  margin: 5%;
+}
+
+.btn:hover {
+  background-color: #00adb5;
+}
